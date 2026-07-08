@@ -1,0 +1,19 @@
+# ================================
+# DGuard - Configuration
+# ================================
+
+# Type de stockage : "local" (fichiers YAML) ou "mysql"
+storage:
+  type: local
+
+  mysql:
+    host: localhost
+    port: 3306
+    database: dguard
+    username: root
+    password: ""
+    useSSL: false
+
+# Avertit (sans bloquer) à la création d'une région si sa zone chevauche le
+# territoire claim d'une faction (via FactionService/DFaction, si installé).
+warn-on-faction-claim: true
