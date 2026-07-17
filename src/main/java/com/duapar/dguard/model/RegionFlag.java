@@ -1,4 +1,4 @@
-package com.dguard.model;
+package com.duapar.dguard.model;
 
 import java.util.Arrays;
 import java.util.List;

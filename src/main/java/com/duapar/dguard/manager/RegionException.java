@@ -1,4 +1,4 @@
-package com.dguard.manager;
+package com.duapar.dguard.manager;
 
 /**
  * Erreur "attendue" (mauvais usage, région introuvable, sélection manquante...) destinée

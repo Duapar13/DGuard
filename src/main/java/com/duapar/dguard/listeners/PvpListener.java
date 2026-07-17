@@ -1,7 +1,7 @@
-package com.dguard.listeners;
+package com.duapar.dguard.listeners;
 
-import com.dguard.manager.RegionManager;
-import com.dguard.model.RegionFlag;
+import com.duapar.dguard.manager.RegionManager;
+import com.duapar.dguard.model.RegionFlag;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.Player;
 import org.bukkit.entity.Projectile;

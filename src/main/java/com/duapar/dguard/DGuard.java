@@ -1,17 +1,17 @@
-package com.dguard;
+package com.duapar.dguard;
 
-import com.dguard.commands.RGCommand;
-import com.dguard.integration.DAPIHook;
-import com.dguard.listeners.EntryListener;
-import com.dguard.listeners.ExplosionListener;
-import com.dguard.listeners.FireListener;
-import com.dguard.listeners.MobSpawnListener;
-import com.dguard.listeners.ProtectionListener;
-import com.dguard.listeners.PvpListener;
-import com.dguard.manager.RegionManager;
-import com.dguard.storage.MySQLRegionStorage;
-import com.dguard.storage.RegionStorage;
-import com.dguard.storage.YamlRegionStorage;
+import com.duapar.dguard.commands.RGCommand;
+import com.duapar.dguard.integration.DAPIHook;
+import com.duapar.dguard.listeners.EntryListener;
+import com.duapar.dguard.listeners.ExplosionListener;
+import com.duapar.dguard.listeners.FireListener;
+import com.duapar.dguard.listeners.MobSpawnListener;
+import com.duapar.dguard.listeners.ProtectionListener;
+import com.duapar.dguard.listeners.PvpListener;
+import com.duapar.dguard.manager.RegionManager;
+import com.duapar.dguard.storage.MySQLRegionStorage;
+import com.duapar.dguard.storage.RegionStorage;
+import com.duapar.dguard.storage.YamlRegionStorage;
 import org.bukkit.command.PluginCommand;
 import org.bukkit.plugin.java.JavaPlugin;
 

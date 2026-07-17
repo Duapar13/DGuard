@@ -1,8 +1,8 @@
-package com.dguard.manager;
+package com.duapar.dguard.manager;
 
-import com.dguard.model.Region;
-import com.dguard.model.RegionFlag;
-import com.dguard.storage.RegionStorage;
+import com.duapar.dguard.model.Region;
+import com.duapar.dguard.model.RegionFlag;
+import com.duapar.dguard.storage.RegionStorage;
 import org.bukkit.Location;
 
 import java.util.ArrayList;

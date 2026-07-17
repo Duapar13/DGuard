@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.dguard</groupId>
+    <groupId>com.duapar.dguard</groupId>
     <artifactId>DGuard</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
@@ -27,7 +27,7 @@
              (fourni par DWorldEdit) pour créer une région à partir d'une sélection.
              Nécessite "mvn install" sur le projet DAPI au moins une fois localement. -->
         <dependency>
-            <groupId>com.dapi</groupId>
+            <groupId>com.duapar.dapi</groupId>
             <artifactId>DAPI</artifactId>
             <version>1.0.0</version>
             <scope>provided</scope>
@@ -73,7 +73,7 @@
                             <relocations>
                                 <relocation>
                                     <pattern>com.mysql</pattern>
-                                    <shadedPattern>com.dguard.libs.mysql</shadedPattern>
+                                    <shadedPattern>com.duapar.dguard.libs.mysql</shadedPattern>
                                 </relocation>
                             </relocations>
                         </configuration>

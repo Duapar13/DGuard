@@ -1,6 +1,6 @@
-package com.dguard.storage;
+package com.duapar.dguard.storage;
 
-import com.dguard.model.Region;
+import com.duapar.dguard.model.Region;
 
 import java.util.Map;
 

@@ -1,6 +1,6 @@
 name: DGuard
 version: '${project.version}'
-main: com.dguard.DGuard
+main: com.duapar.dguard.DGuard
 api-version: '26.1'
 author: Duapar
 description: Régions protégées façon WorldGuard, créées à partir d'une sélection DWorldEdit (via DAPI).

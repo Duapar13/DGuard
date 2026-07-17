@@ -1,11 +1,11 @@
-package com.dguard.commands;
+package com.duapar.dguard.commands;
 
-import com.dguard.integration.DAPIHook;
-import com.dguard.manager.RegionException;
-import com.dguard.manager.RegionManager;
-import com.dguard.model.Region;
-import com.dguard.model.RegionFlag;
-import com.dguard.util.Msg;
+import com.duapar.dguard.integration.DAPIHook;
+import com.duapar.dguard.manager.RegionException;
+import com.duapar.dguard.manager.RegionManager;
+import com.duapar.dguard.model.Region;
+import com.duapar.dguard.model.RegionFlag;
+import com.duapar.dguard.util.Msg;
 import org.bukkit.ChatColor;
 import org.bukkit.Location;
 import org.bukkit.command.Command;

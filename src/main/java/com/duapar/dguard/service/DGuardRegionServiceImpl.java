@@ -1,9 +1,9 @@
-package com.dguard.service;
+package com.duapar.dguard.service;
 
-import com.dapi.service.RegionService;
-import com.dguard.manager.RegionManager;
-import com.dguard.model.Region;
-import com.dguard.model.RegionFlag;
+import com.duapar.dapi.service.RegionService;
+import com.duapar.dguard.manager.RegionManager;
+import com.duapar.dguard.model.Region;
+import com.duapar.dguard.model.RegionFlag;
 import org.bukkit.Location;
 
 /**

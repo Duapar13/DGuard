@@ -1,4 +1,4 @@
-package com.dguard.model;
+package com.duapar.dguard.model;
 
 import org.bukkit.Location;
 

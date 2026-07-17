@@ -1,7 +1,7 @@
-package com.dguard.storage;
+package com.duapar.dguard.storage;
 
-import com.dguard.model.Region;
-import com.dguard.model.RegionFlag;
+import com.duapar.dguard.model.Region;
+import com.duapar.dguard.model.RegionFlag;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 

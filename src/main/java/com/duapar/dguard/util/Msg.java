@@ -1,4 +1,4 @@
-package com.dguard.util;
+package com.duapar.dguard.util;
 
 import org.bukkit.ChatColor;
 import org.bukkit.command.CommandSender;

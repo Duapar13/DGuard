@@ -1,9 +1,9 @@
-package com.dguard.listeners;
+package com.duapar.dguard.listeners;
 
-import com.dguard.manager.RegionManager;
-import com.dguard.model.Region;
-import com.dguard.model.RegionFlag;
-import com.dguard.util.Msg;
+import com.duapar.dguard.manager.RegionManager;
+import com.duapar.dguard.model.Region;
+import com.duapar.dguard.model.RegionFlag;
+import com.duapar.dguard.util.Msg;
 import org.bukkit.Location;
 import org.bukkit.Material;
 import org.bukkit.block.Block;

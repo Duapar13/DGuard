@@ -1,11 +1,11 @@
-package com.dguard.integration;
+package com.duapar.dguard.integration;
 
-import com.dapi.DAPI;
-import com.dapi.service.FactionService;
-import com.dapi.service.RegionService;
-import com.dapi.service.SelectionService;
-import com.dguard.manager.RegionManager;
-import com.dguard.service.DGuardRegionServiceImpl;
+import com.duapar.dapi.DAPI;
+import com.duapar.dapi.service.FactionService;
+import com.duapar.dapi.service.RegionService;
+import com.duapar.dapi.service.SelectionService;
+import com.duapar.dguard.manager.RegionManager;
+import com.duapar.dguard.service.DGuardRegionServiceImpl;
 import org.bukkit.Location;
 import org.bukkit.World;
 import org.bukkit.plugin.java.JavaPlugin;
